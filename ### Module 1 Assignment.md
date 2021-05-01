@@ -7,4 +7,4 @@ kickstarter fundraising for her theater production initiative around the world. 
 been collected on the pledges received by backers in different parts of the world for production kickstarters. Using this data this analysis 
 will help Louise use successful factors and conclusions drawn from the past to make for successful fundraising campaigns in the future.
 
-![Outcomes_vs_Goals.png](D:\kickstarter-analysis\Resources\Outcomes_vs_Goals.png)
+![logo](D:\kickstarter-analysis\Resources\Outcomes_vs_Goals.png "Outcomes vs Goals")
