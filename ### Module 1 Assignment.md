@@ -8,6 +8,9 @@ been collected on the pledges received by backers in different parts of the worl
 will help Louise use successful factors and conclusions drawn from the past to make for successful fundraising campaigns in the future.
 
 ---
+
+##__Results__##
+
 ![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) "***Theater Outcomes by Launch Date***"
 
 After looking at the Theater Outcomes Based on Lanch Date, we can conclude that the significant peak in successful campaigns in April 
@@ -30,5 +33,10 @@ Valentines Day wherever it may be celebrated. This could be a peak time in the y
 
 
 ---
-![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) "***Outcomes Vs. Goals***"
+![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) "***Outcomes Based on Goals***"
 
+What I can conclude about the Outcomes based on Goals is that Kickstarters that have goals below $10,000 display the interest and desire to invest into plays in these countries and possible economy differences. Also there is a downward trend as the goals increase. This is due to the only play kickstarters succeeding in this category being campaigns in the US. The only kickstarter outside of the US at these higher goals is one in Sweden and this begs the possibility of it being an outlier with a matching high average donation. Further analysis into the pledge amounts may find a unusually high pledge by a small amount of pledgers. As for the US kickstarters between 35k and 45k causing the spike, these titles are outliers.
+
+---
+The limitations of this dataset is that it does not include a sheet of the pledge amounts of each backer for a specific kickstarter and what country this amount came from. High average donations could speak to where a specific pledger may be skewing the data. It will help Louise to have a better expectation of what her attainable goals are in specific categories and countries.
+Some recommended tables and graphs would be a visual chart showing the amount of backers by goals ranges. Cancellations can be timed based on what amount of backers should we expect in a period of time. Also outcomes based on popularity in staff picks and spotlight. Staff are some times the most educated on which production to provide to their area and other times the attention brought from other muses may help guide Louises attention to the correct productions.
