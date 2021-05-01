@@ -27,6 +27,8 @@ the deciding factors for cancelling a kickstarter.
 
 Lastly, coming into the New Year, Louise can expect events to take an uptick in February. If concentrated in the US, this could be due to 
 Valentines Day wherever it may be celebrated. This could be a peak time in the year to appeal to couples.
+
+
 ---
 ![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png) "***Outcomes Vs. Goals***"
 
