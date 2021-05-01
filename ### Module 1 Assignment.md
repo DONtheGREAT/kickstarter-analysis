@@ -8,7 +8,7 @@ been collected on the pledges received by backers in different parts of the worl
 will help Louise use successful factors and conclusions drawn from the past to make for successful fundraising campaigns in the future.
 
 ---
-![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) "Theater Outcomes by Launch Date"
+![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) "***Theater Outcomes by Launch Date***"
 
 After looking at the Theater Outcomes Based on Lanch Date, we can conclude that the significant peak in successful campaigns in April 
 and May could be due to the end of the school year in most countries. Pledges may have more finances available and time to invest in theater
