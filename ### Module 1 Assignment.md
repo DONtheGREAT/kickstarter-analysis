@@ -9,7 +9,7 @@ will help Louise use successful factors and conclusions drawn from the past to m
 
 ---
 
-##__Results__##
+## __Results__
 
 ![logo](https://github.com/DONtheGREAT/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png) "***Theater Outcomes by Launch Date***"
 
@@ -39,4 +39,5 @@ What I can conclude about the Outcomes based on Goals is that Kickstarters that 
 
 ---
 The limitations of this dataset is that it does not include a sheet of the pledge amounts of each backer for a specific kickstarter and what country this amount came from. High average donations could speak to where a specific pledger may be skewing the data. It will help Louise to have a better expectation of what her attainable goals are in specific categories and countries.
+
 Some recommended tables and graphs would be a visual chart showing the amount of backers by goals ranges. Cancellations can be timed based on what amount of backers should we expect in a period of time. Also outcomes based on popularity in staff picks and spotlight. Staff are some times the most educated on which production to provide to their area and other times the attention brought from other muses may help guide Louises attention to the correct productions.
